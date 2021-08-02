@@ -1,6 +1,6 @@
 {
   "name": "@blast-engine/cloud-control",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "main": "lib/index.js",
   "dependencies": {
     "@blast-engine/context": "^2.0.0",
